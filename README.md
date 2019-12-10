@@ -2,4 +2,4 @@
 
 Esto es una prueba realizada durante un curso de GitHub
 
-[Visita mi github](http://https://github.com/slopezelices)
+[Visita mi github](https://github.com/slopezelices)
